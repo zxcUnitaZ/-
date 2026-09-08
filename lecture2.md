@@ -45,4 +45,5 @@ x64/ — если целевая платформа x64, эти папки бу�
 .vs/ — служебная папка IDE (кэш IntelliSense, настройки окна). Всегда в .gitignore.
 
 ## что коммитить в git
-.sln, .vcxproj, .vcxproj.filters, все .cpp/.h. Игнорировать: .vcxproj.user, .vs/, Debug/, Release/, x64/.
+.sln, .vcxproj, .vcxproj.filters, все .cpp/.h. Игнорировать: .vcxproj.user, .vs/, Debug/, Release/, x64/.  
+зыз зыз зыыыыыыыыыыыыыыыыыыыыыыыз
